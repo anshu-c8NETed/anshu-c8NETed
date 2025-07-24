@@ -20,7 +20,7 @@
 
 </div>
 
-### 🏆 Achievements & Skills
+### 🏆 Skills
 - ✅ **Completed DSA in C++** - Mastered data structures and algorithms implementation
 - 🌐 **Web Development** - JavaScript, React, Node.js
 - 🎮 **Game Development** - C++ based interactive applications
