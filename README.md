@@ -97,8 +97,9 @@
 </tr>
 </table>
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=anshu-c8NETed&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
+</div>
 ## 🎯 Current Mission
 
 <div align="center">
