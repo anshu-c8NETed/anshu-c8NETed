@@ -97,27 +97,26 @@
 </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anshu-c8NETed&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anshu-c8NETed&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
+
 ## 🎯 Current Mission
 
 <div align="center">
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  🌐 Web Applications      │  🎮 Game Development            ║
-
-║  ⚡ JavaScript Projects   │  🔧 C++ Adventures              ║
-
-║  📱 MERN Stack             |  ☁️ Cloud Computing Basics      ║
+║  🌐 Web Applications      │  🎮 Game Development           ║
+║  ⚡ JavaScript Projects   │  🔧 C++ Adventures             ║
+║  📱 MERN Stack Learning   │  ☁️  Cloud Computing Basics    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ### 🔥 What I'm Building
-- 🎵 **NoiRhythm** - A music streaming web app
+- 🎵 **NoiRhythm** - A Spotify-inspired music streaming web app
 - 🎮 Interactive games using C++ and modern frameworks
 - 🌟 Creative web applications with unique user experiences
 - ☁️ Exploring cloud deployment and scalable architectures
@@ -135,9 +134,6 @@
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshu-c8NETed&label=Profile%20Views&color=00d9ff&style=flat&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/anshu-c8NETed?label=Followers&style=flat&color=00d9ff&labelColor=0D1117)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
