@@ -115,8 +115,8 @@
 
 </div>
 
-### 🔥 What I'm Building
-- 🎵 **NoiRhythm** - A Spotify-inspired music streaming web app
+### 🔥 What I'm Working On :
+- 🎵 **NoiRhythm** - A music streaming web app
 - 🎮 Interactive games using C++ and modern frameworks
 - 🌟 Creative web applications with unique user experiences
 - ☁️ Exploring cloud deployment and scalable architectures
