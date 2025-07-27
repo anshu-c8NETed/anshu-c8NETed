@@ -116,9 +116,8 @@
 </div>
 
 ### 🔥 What I'm Working On :
-- 🎵 **NoiRhythm** - A music streaming web app
-- 🎮 Interactive games using C++ and modern frameworks
 - 🌟 Creative web applications with unique user experiences
+- 🎮 Interactive games using C++ and modern frameworks
 - ☁️ Exploring cloud deployment and scalable architectures
 
 ## 🌐 Connect With Me
