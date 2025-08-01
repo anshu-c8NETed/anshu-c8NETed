@@ -15,7 +15,7 @@
 *✨Passionate about creating web applications and games✨*
 
 🎯 **Focus:** Building personal & professional projects  
-📚 **Learning:** MERN Stack & Cloud Computing  
+📚 **Mastering:** MERN Stack & Cloud Computing  
 
 </div>
 
