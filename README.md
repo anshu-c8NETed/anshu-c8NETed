@@ -51,7 +51,7 @@
 </tr>
 </table>
 
-### Currently Exploring
+### Currently Mastering
 <table>
 <tr>
     <td align="center" width="96">
