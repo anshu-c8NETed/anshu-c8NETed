@@ -23,7 +23,7 @@
 
 - ✅ **Completed DSA in C++** - Mastered data structures and algorithms  
 - 🌐 **Web Development** - JavaScript, React, Node.js  
-- 🎮 **Game Development** - C++ based interactive applications  
+- 🎮 **Basics of Game Development** - C++ based interactive applications  
 - 🌩️ **IOT & Cloud Integration** - Exploring connected devices, sensor technologies, and cloud-based data analytics
 
 ---
