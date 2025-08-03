@@ -24,7 +24,7 @@
 - ✅ **Completed DSA in C++** - Mastered data structures and algorithms  
 - 🌐 **Web Development** - JavaScript, React, Node.js  
 - 🎮 **Game Development** - C++ based interactive applications  
-- ☁️ **Cloud Computing** - Exploring scalable architectures  
+- 🌩️ **Cloud Computing & IOT** - Exploring connected devices, sensor technologies, and cloud-based data analytics
 
 ---
 
@@ -47,9 +47,10 @@
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript" /><br>JavaScript
   </td>
+  
 </tr></table>
 
-### Currently Mastering
+### Currently Learning & Mastering
 
 <table><tr>
   <td align="center" width="96">
@@ -67,6 +68,10 @@
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=aws" width="48" alt="AWS" /><br>Cloud
   </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+        <br>IoT
+    </td>
 </tr></table>
 
 </div>
@@ -107,8 +112,7 @@
 
 - 🌟 Creative web applications with unique user experiences  
 - 🎮 Interactive games using C++ and modern frameworks  
-- ☁️ Exploring cloud deployment and scalable architectures  
-
+- 🌩️ Exploring IoT devices with cloud-based data processing and analytics
 ---
 
 ## 🌐 Connect With Me
