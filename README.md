@@ -77,15 +77,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anshu-c8NETed&theme=tokyonight&hide_border=true)
-
-<!-- Optional: Add this if you use Wakatime -->
-<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourWakaTimeUsername&theme=tokyonight)](https://wakatime.com/@yourWakaTimeUsername) -->
 
 </div>
 
