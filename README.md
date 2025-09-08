@@ -22,7 +22,7 @@
 
 - ✅ **Completed DSA in C++** - Mastered data structures and algorithms  
 - 🌐 **Web Development** - JavaScript, React, Node.js  
-- 🎮 **Basics of Game Development** - C++ based interactive applications  
+- 🎮 **Basics of 3D Development** - WEBGL, THREEJS, BLENDER
 - 🌩️ **IOT & Cloud Integration** - Exploring connected devices, sensor technologies, and cloud-based data analytics
 
 ---
@@ -89,7 +89,7 @@
     
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║  🌐 Web Applications      │  🎮 Game Development           ║
+║  🌐 Web Applications      │  🎮 3D Development           ║
 ║  ⚡ JavaScript Projects   │  🔧 C++ Adventures             ║
 ║  📱 MERN Stack Learning   │  🔗 IoT & Sensor Technology    ║
 ╚══════════════════════════════════════════════════════════════╝
