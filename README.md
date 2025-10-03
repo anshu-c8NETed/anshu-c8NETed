@@ -101,7 +101,7 @@
 ### 🔥 What I'm Working On
 
 - 🌟 Creative web applications with unique user experiences  
-- 🎮 Interactive games using C++ and modern frameworks  
+- ⚡︎  Learning DSA,OOPS and other core concepts 
 - 🌩️ Exploring IoT devices with cloud-based data processing and analytics
 ---
 
