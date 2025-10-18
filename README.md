@@ -113,11 +113,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:rajanshu2123@gmail.com">
+<a href="[mailto:rajanshu2123@gmail.com](https://mail.google.com/mail/u/0/?to=rajanshu2123@gmail.com&fs=1&tf=cm)">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 &nbsp;&nbsp;
-<a href="#" target="_blank">
+<a href="portfoliobyar.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
 </a>
 
