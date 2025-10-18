@@ -107,18 +107,22 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align=center>
 
-<a href="https://www.linkedin.com/in/anshu-raj-tech/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<a href=https://www.linkedin.com/in/anshu-raj-tech/ target=_blank>
+  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn Badge/>
 </a>
 &nbsp;&nbsp;
-<a href="[mailto:rajanshu2123@gmail.com](https://mail.google.com/mail/u/0/?to=rajanshu2123@gmail.com&fs=1&tf=cm)">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+<a href=https://mail.google.com/mail/u/0/?to=rajanshu2123@gmail.com&fs=1&tf=cm target=_blank>
+  <img src=https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail Badge/>
 </a>
 &nbsp;&nbsp;
-<a href="portfoliobyar.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+<a href=https://portfoliobyar.netlify.app/ target=_blank>
+  <img src=https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white alt=Portfolio Badge/>
+</a>
+&nbsp;&nbsp;
+<a href=https://leetcode.com/YOUR_USERNAME target=_blank>
+  <img src=https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black alt=LeetCode Badge/>
 </a>
 
 </div>
