@@ -117,7 +117,7 @@
   <img src=https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail Badge/>
 </a>
 &nbsp;&nbsp;
-<a href=[https://portfolio-two-brown-28.vercel.app/](https://portfolio-two-brown-28.vercel.app/) target=_blank>
+<a href=https://portfolio-two-brown-28.vercel.app/ target=_blank>
   <img src=https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white alt=Portfolio Badge/>
 </a>
 &nbsp;&nbsp;
