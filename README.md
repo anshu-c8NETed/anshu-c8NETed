@@ -124,8 +124,8 @@ Live multiplayer chess platform with real-time game synchronization and move val
 <tr>
 <td width="50%">
 
-### 🎭 LAZAREV
-**AI/ML Product Design Studio**
+### 🎭 THE UNIVERSE.
+**Modern Design Studio**
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
