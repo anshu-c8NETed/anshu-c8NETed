@@ -6,7 +6,30 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Crafting+Immersive+Web+Experiences;MERN+Stack+Developer;Creative+Designer+%26+Animator;500%2B+DSA+Problems+Solved;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
+
+<!-- GitHub Followers -->
+[![GitHub followers](https://img.shields.io/github/followers/anshu-c8NETed?label=Followers&style=for-the-badge&color=8B5CF6)](https://github.com/anshu-c8NETed)
+[![GitHub Stars](https://img.shields.io/github/stars/anshu-c8NETed?label=Stars&style=for-the-badge&color=EC4899)](https://github.com/anshu-c8NETed)
+
 </div>
+
+---
+
+## 👋 Hey there! Welcome to my Digital Universe
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🎯 Quick Facts
+
+- 🔭 Currently building **Next-Gen Web Experiences**
+- 🌱 Learning **Three.js, Advanced GSAP & Cloud Architecture**
+- 👨‍💻 All projects available at [**Portfolio**](https://anshu-rajportfolio.netlify.app/)
+- 💬 Ask me about **MERN, Animations, 3D Web, IoT**
+- ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
+- 🎨 Design Mantra: **Pixel-perfect or nothing**
+- 📍 Based in **Bokaro Steel City, Jharkhand 🇮🇳**
+
+<br clear="right"/>
 
 ---
 
@@ -25,19 +48,36 @@ const anshuRaj = {
         "Creating 3D Web Experiences"
     ],
     
+    codeStyle: {
+        indentation: "2 spaces",
+        quotes: "single",
+        semicolons: true,
+        architecture: "Clean & Modular"
+    },
+    
+    dailyRoutine: {
+        morning: "☕ Coffee + LeetCode",
+        afternoon: "💻 Building Projects",
+        evening: "🎨 Design & Animation",
+        night: "📚 Learning New Tech"
+    },
+    
     philosophy: "Clean, Fast, and Authentic — Every Project is an Opportunity to Push Boundaries",
     
     achievements: {
-        dsaProblems: 500+,
-        projectsCompleted: 15+,
-        technologiesMastered: 20+
-    }
+        dsaProblems: "500+",
+        projectsCompleted: "15+",
+        technologiesMastered: "20+",
+        caffeineConsumed: "∞"
+    },
+
 };
+
 ```
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Arsenal
 
 <div align="center">
 
@@ -72,14 +112,31 @@ const anshuRaj = {
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & IoT
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,arduino" />
-
 </p>
+
+</div>
+
+---
+
+## 📊 Skill Levels
+
+<div align="center">
+
+```text
+Full-Stack Development  ████████████████████░  95%
+Frontend & UI/UX       ███████████████████░░  90%
+Backend Development    ██████████████████░░░  85%
+3D & Animations        ████████████████░░░░░  80%
+Data Structures & Algo █████████████████████  98%
+IoT & Cloud           ███████████░░░░░░░░░░  55%
+```
 
 </div>
 
@@ -89,63 +146,109 @@ const anshuRaj = {
 
 <div align="center">
 
+> Click on the project names to see them live! 🚀
+
+</div>
+
+<details open>
+<summary><b>🌟 Premium Showcase</b></summary>
+<br>
+
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 NEXUS
+### 🎨 [NEXUS](https://nexusonweb.netlify.app/)
 **Creative Digital Agency Experience**
 
 ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Locomotive-000000?style=flat-square&logo=steam&logoColor=white)
 
-Advanced agency website with smooth scroll animations, 3D graphics, and interactive elements.
+<br>
 
-[🔗 Live Demo](https://nexusonweb.netlify.app/)
+```yaml
+Highlights:
+  - Smooth scroll animations
+  - 3D canvas graphics
+  - Interactive cursor effects
+  - Agency-level design
+  - Performance optimized
+```
+
+**[Live Demo →](https://nexusonweb.netlify.app/)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ CHESSELITE
+### ⚡ [CHESSELITE](https://chess-production-5218.up.railway.app/)
 **Real-Time Multiplayer Chess**
 
 ![](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-Live multiplayer chess platform with real-time game synchronization and move validation.
+<br>
 
-[🔗 Live Demo](https://chess-production-5218.up.railway.app/)
+```yaml
+Features:
+  - Real-time gameplay
+  - Move validation
+  - Spectator mode
+  - Room management
+  - Responsive design
+```
+
+**[Live Demo →](https://chess-production-5218.up.railway.app/)**
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎭 THE UNIVERSE.
+### 🎭 [THE UNIVERSE.](https://lazarevdigital.netlify.app/)
 **Modern Design Studio**
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-Modern agency portfolio with stunning animations and responsive design.
+<br>
 
-[🔗 Live Demo](https://lazarevdigital.netlify.app/)
+```yaml
+Tech Stack:
+  - React.js
+  - GSAP Animations
+  - Responsive Design
+  - Modern UI/UX
+  - Optimized Performance
+```
+
+**[Live Demo →](https://lazarevdigital.netlify.app/)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌟 SUNSTUDIO
+### 🌟 [SUNSTUDIO](https://sunstudioonweb.netlify.app/)
 **Creative Agency Platform**
 
 ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-Modern creative agency platform with immersive animations and smooth interactions.
+<br>
 
-[🔗 Live Demo](https://sunstudioonweb.netlify.app/)
+```yaml
+Innovations:
+  - Canvas animations
+  - Scroll-triggered effects
+  - Interactive elements
+  - Premium aesthetics
+  - Smooth transitions
+```
+
+**[Live Demo →](https://sunstudioonweb.netlify.app/)**
 
 </td>
 </tr>
@@ -153,36 +256,27 @@ Modern creative agency platform with immersive animations and smooth interaction
 
 </div>
 
+</details>
+
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshu-c8NETed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E5E7EB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshu-c8NETed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E5E7EB&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-c8NETed&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=E5E7EB" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-c8NETed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-c8NETed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshu-c8NETed&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🔥 500+ DSA Problems Solved  │  💼 15+ Projects Built     ║
-║   ⚡ Full-Stack MERN Stack     │  🎨 Advanced Animations    ║
-║   🌐 Agency-Level Websites     │  🎮 3D Web Experiences     ║
-║   ☁️  IoT & Cloud Integration   │  📱 Responsive Design      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://github-profile-trophy.vercel.app/?username=anshu-c8NETed&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 
@@ -190,17 +284,60 @@ Modern creative agency platform with immersive animations and smooth interaction
 
 ---
 
-## 💡 What I'm Currently Working On
+## 📈 Contribution Graph
 
 <div align="center">
 
-| 🎯 Focus Area | 📈 Progress | 🔗 Status |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshu-c8NETed&custom_title=Anshu's%20Contribution%20Graph&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899&area_color=8B5CF6&title_color=6366F1&area=true" width="100%">
+
+</div>
+
+---
+
+## 🎯 Achievements & Milestones
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   🔥 500+ DSA Problems Solved    │  💼 15+ Projects Deployed        ║
+║   ⚡ Full-Stack MERN Expert      │  🎨 Advanced Animation Master    ║
+║   🌐 Agency-Level Websites       │  🎮 3D Web Experiences           ║
+║   ☁️  IoT & Cloud Integration     │  📱 Pixel-Perfect Responsive     ║
+║   🏆 Top 5% on LeetCode          │  ⭐ 1000+ Hours of Coding        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+| 🎯 Achievement | 📊 Metric | 🏅 Status |
 |:---:|:---:|:---:|
-| **MERN Stack Mastery** | ████████░░ 80% | 🚀 Active |
-| **IoT & Cloud Projects** | ██████░░░░ 60% | 🌱 Growing |
-| **3D Web Development** | ███████░░░ 70% | 🎨 Creating |
-| **DSA & Problem Solving** | █████████░ 90% | 💪 Strong |
-| **Agency-Like Websites** | ████████░░ 85% | ✨ Polishing |
+| **DSA Problems** | 500+ | ✅ Completed |
+| **Projects Built** | 15+ | 🚀 Growing |
+| **GitHub Repos** | 20+ | 📈 Active |
+| **Tech Stack** | 20+ | 🎨 Expanding |
+| **Coffee Cups** | ∞ | ☕ Essential |
+
+</div>
+
+---
+
+## 💡 Current Focus & Learning Path
+
+<div align="center">
+
+| 🎯 Focus Area | 📈 Progress | 🔗 Status | 🎯 Goal |
+|:---|:---:|:---:|:---|
+| **MERN Stack Mastery** | ████████░░ 80% | 🚀 Active | Production-Ready Apps |
+| **IoT & Cloud Projects** | ██████░░░░ 60% | 🌱 Growing | Smart IoT Solutions |
+| **3D Web Development** | ███████░░░ 70% | 🎨 Creating | Immersive Experiences |
+| **DSA & Algorithms** | █████████░ 90% | 💪 Strong | Competitive Programming |
+| **Agency Websites** | ████████░░ 85% | ✨ Polishing | Premium Quality |
+| **System Design** | █████░░░░░ 50% | 📚 Learning | Scalable Architecture |
 
 </div>
 
@@ -210,38 +347,141 @@ Modern creative agency platform with immersive animations and smooth interaction
 
 <div align="center">
 
-> **"Building modern websites — Clean, fast, and authentic"**
-
-I believe in creating web experiences that not only look stunning but also perform flawlessly. Every project combines:
-
-🎭 **Creative Design** • ⚡ **Performance** • 🎯 **User Experience** • 💡 **Innovation**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Clean+Code+is+Not+Written+by+Following+Rules;Clean+Code+is+Written+by+Developers+Who+Care;Every+Line+of+Code+Should+Tell+a+Story" alt="Philosophy" />
 
 </div>
 
----
-
-## 📫 Let's Connect
+```yaml
+My Development Principles:
+  
+  🎯 User First:
+    - Intuitive interfaces
+    - Accessibility matters
+    - Performance is key
+  
+  💡 Code Quality:
+    - Clean & readable
+    - Well documented
+    - Tested & reliable
+  
+  🎨 Design Excellence:
+    - Pixel-perfect precision
+    - Smooth animations
+    - Responsive on all devices
+  
+  🚀 Innovation:
+    - Latest technologies
+    - Creative solutions
+    - Pushing boundaries
+```
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anshu-rajportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-raj-tech/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanshu2123@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/anshxu/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshu-c8NETed)
+> **"Building modern websites — Clean, fast, and authentic"**
 
-### 📧 rajanshu2123@gmail.com
+I believe in creating web experiences that not only look stunning but also perform flawlessly.
+
+🎭 **Creative Design** • ⚡ **Performance** • 🎯 **User Experience** • 💡 **Innovation** • 🔒 **Security**
 
 </div>
 
 ---
 
+## 🌟 What Makes Me Different
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
+<h3>Clean Code</h3>
+<p>Maintainable, scalable, and well-documented code that tells a story</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/design.png" width="60"/>
+<h3>Design Focus</h3>
+<p>Pixel-perfect implementations with attention to every detail</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/speed.png" width="60"/>
+<h3>Performance</h3>
+<p>Optimized applications that load fast and run smooth</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/innovation.png" width="60"/>
+<h3>Innovation</h3>
+<p>Creative solutions using cutting-edge technologies</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+### 💼 Open for:
+
+```yaml
+Opportunities:
+  - Full-Stack Development Projects
+  - Freelance Web Development
+  - Open Source Contributions
+  - Technical Writing
+  
+Collaboration Areas:
+  - MERN Stack Applications
+  - Animated Web Experiences
+  - 3D Web Projects
+  - IoT Integration
+  - Creative Agency Websites
+```
+
+### 🎯 Ideal Projects:
+
+✅ Innovative web applications  
+✅ Agency-level websites  
+✅ Real-time applications  
+✅ 3D/Animated experiences  
+✅ Open source contributions  
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+### 🌐 Find Me Around the Web
+
+<p>
+<a href="https://anshu-rajportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/anshu-raj-tech/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rajanshu2123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://leetcode.com/u/anshxu/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://github.com/anshu-c8NETed" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
 
 
-### 🌟 Let's Build Something Amazing Together
+<div align="center">
 
-
+### 🚀 Let's Build Something Amazing Together
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-</div>
+**⭐ From [anshu-c8NETed](https://github.com/anshu-c8NETed) with 💜**
