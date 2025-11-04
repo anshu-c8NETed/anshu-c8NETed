@@ -48,19 +48,6 @@ const anshuRaj = {
         "Creating 3D Web Experiences"
     ],
     
-    codeStyle: {
-        indentation: "2 spaces",
-        quotes: "single",
-        semicolons: true,
-        architecture: "Clean & Modular"
-    },
-    
-    dailyRoutine: {
-        morning: "☕ Coffee + LeetCode",
-        afternoon: "💻 Building Projects",
-        evening: "🎨 Design & Animation",
-        night: "📚 Learning New Tech"
-    },
     
     philosophy: "Clean, Fast, and Authentic — Every Project is an Opportunity to Push Boundaries",
     
