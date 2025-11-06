@@ -6,11 +6,6 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Crafting+Immersive+Web+Experiences;MERN+Stack+Developer;Creative+Designer+%26+Animator;500%2B+DSA+Problems+Solved;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
-
-<!-- GitHub Followers -->
-[![GitHub followers](https://img.shields.io/github/followers/anshu-c8NETed?label=Followers&style=for-the-badge&color=8B5CF6)](https://github.com/anshu-c8NETed)
-[![GitHub Stars](https://img.shields.io/github/stars/anshu-c8NETed?label=Stars&style=for-the-badge&color=EC4899)](https://github.com/anshu-c8NETed)
-
 </div>
 
 ---
