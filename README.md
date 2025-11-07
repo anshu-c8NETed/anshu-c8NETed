@@ -17,7 +17,7 @@
 ### 🎯 Quick Facts
 
 - 🔭 Currently building **Next-Gen Web Experiences**
-- 🌱 Learning **Three.js, Advanced GSAP & Cloud Architecture**
+- 🌱 Working on **Three.js, Advanced GSAP & Cloud Architecture**
 - 👨‍💻 All projects available at [**Portfolio**](https://anshu-rajportfolio.netlify.app/)
 - 💬 Ask me about **MERN, Animations, 3D Web, IoT**
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
