@@ -286,11 +286,11 @@ Innovations:
 ║   🔥 500+ DSA Problems Solved    │  💼 15+ Projects Deployed        ║
 ║   ⚡ Full-Stack MERN Expert      │  🎨 Advanced Animation Master    ║
 ║   🌐 Agency-Level Websites       │  🎮 3D Web Experiences           ║
-║   ☁️  IoT & Cloud Integration     │  📱 Pixel-Perfect Responsive     ║
-║   🏆 Top 5% on LeetCode          │  ⭐ 1000+ Hours of Coding        ║
-║                                                                      ║
+║   ☁️  IoT & Cloud Integration    │  📱 Pixel-Perfect Responsive      ║
 ╚══════════════════════════════════════════════════════════════════════╝
-```
+```       
+
+
 
 </div>
 
