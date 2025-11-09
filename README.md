@@ -142,7 +142,7 @@ IoT & Cloud           ███████████░░░░░░░░�
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [GAMEBIT](https://gamedevbit.netlify.app/)
+### 🎨 [GAMEBIT](https://gamebitdev.netlify.app/)
 **Next Gen Game Design Agency Experience**
 
 ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
@@ -160,7 +160,7 @@ Highlights:
   - Performance optimized
 ```
 
-**[Live Demo →](https://gamedevbit.netlify.app/)**
+**[Live Demo →](https://gamebitdev.netlify.app/)**
 
 </td>
 <td width="50%" valign="top">
