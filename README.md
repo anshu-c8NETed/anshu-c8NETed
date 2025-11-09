@@ -201,7 +201,7 @@ Features:
 
 ```yaml
 Tech Stack:
-  - React.js
+  - HTML CSS JS
   - GSAP Animations
   - Responsive Design
   - Modern UI/UX
