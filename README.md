@@ -142,8 +142,8 @@ IoT & Cloud           ███████████░░░░░░░░�
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [NEXUS](https://nexusonweb.netlify.app/)
-**Creative Digital Agency Experience**
+### 🎨 [GAMEBIT](https://gamedevbit.netlify.app/)
+**Next Gen Game Design Agency Experience**
 
 ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -154,7 +154,7 @@ IoT & Cloud           ███████████░░░░░░░░�
 ```yaml
 Highlights:
   - Smooth scroll animations
-  - 3D canvas graphics
+  - 3D canvas and model
   - Interactive cursor effects
   - Agency-level design
   - Performance optimized
