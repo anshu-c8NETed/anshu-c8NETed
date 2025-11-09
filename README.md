@@ -160,7 +160,7 @@ Highlights:
   - Performance optimized
 ```
 
-**[Live Demo →](https://nexusonweb.netlify.app/)**
+**[Live Demo →](https://gamedevbit.netlify.app/)**
 
 </td>
 <td width="50%" valign="top">
