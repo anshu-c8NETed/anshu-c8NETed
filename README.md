@@ -213,8 +213,8 @@ Tech Stack:
 </td>
 <td width="50%" valign="top">
 
-### 🌟 [SUNSTUDIO](https://sunstudioonweb.netlify.app/)
-**Creative Agency Platform**
+### 🌟 [API LEARNING](https://madeforsss.netlify.app/)
+**API LEARNING Platform**
 
 ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 ![](https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -230,7 +230,7 @@ Innovations:
   - Smooth transitions
 ```
 
-**[Live Demo →](https://sunstudioonweb.netlify.app/)**
+**[Live Demo →](https://madeforsss.netlify.app/)**
 
 </td>
 </tr>
