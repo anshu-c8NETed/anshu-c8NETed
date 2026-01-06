@@ -191,8 +191,8 @@ Features:
 <tr>
 <td width="50%" valign="top">
 
-### 🎭 [THE UNIVERSE.](https://lazarevdigital.netlify.app/)
-**Modern Design Studio**
+### 🎭 [HYPERSPACE RUSH](https://hyperspacerush.netlify.app/)
+**A cyberpunk-themed endless tunnel racer**
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
@@ -202,13 +202,13 @@ Features:
 ```yaml
 Tech Stack:
   - HTML CSS JS
-  - GSAP Animations
+  - GSAP Animations and ThreeJS
   - Responsive Design
   - Modern UI/UX
   - Optimized Performance
 ```
 
-**[Live Demo →](https://lazarevdigital.netlify.app/)**
+**[Live Demo →](https://hyperspacerush.netlify.app/)**
 
 </td>
 <td width="50%" valign="top">
