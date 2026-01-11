@@ -183,7 +183,7 @@ const anshuRaj: Developer = {
 </td>
 <td width="50%" valign="top">
 
-#### 💻 [CODESPACE](https://github.com/anshu-c8NETed/codespace)
+#### 💻 [CODEXSPACE](https://codex-space-frontend.vercel.app/)
 **Real-Time Collaborative Code Editor**
 
 <p>
@@ -199,7 +199,7 @@ const anshuRaj: Developer = {
 - 🔒 Secure room management
 - 🚀 Low-latency synchronization
 
-**[🔗 View Project](https://github.com/anshu-c8NETed/codespace)**
+**[🔗 Live Demo](https://codex-space-frontend.vercel.app/)**
 
 </td>
 </tr>
