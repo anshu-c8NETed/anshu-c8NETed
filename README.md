@@ -5,8 +5,8 @@
 
 <!-- Animated Typing Effect -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Architecting+Digital+Experiences;MERN+Stack+%7C+500%2B+DSA+Mastery;3D+Web+%7C+Advanced+Animations;Building+Tomorrow%2C+Today">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=Architecting+Digital+Experiences;MERN+Stack+%7C+500%2B+DSA+Mastery;3D+Web+%7C+Advanced+Animations;Building+Tomorrow%2C+Today" alt="Typing Animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Architecting+Digital+Experiences;3D+Web+%7C+Advanced+Animations;Building+Tomorrow%2C+Today">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=Architecting+Digital+Experiences;MERN+Stack+%7C+;3D+Web+%7C+Advanced+Animations;Building+Tomorrow%2C+Today" alt="Typing Animation" />
 </picture>
 
 <br/>
