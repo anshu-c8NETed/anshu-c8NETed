@@ -84,7 +84,7 @@ const anshuRaj: Developer = {
 
 - 🔭 Building **Next-Generation Web Experiences**
 - 🌱 Deep diving into **Three.js, GSAP & Cloud Architecture**
-- 👨‍💻 Portfolio: [**anshu-rajportfolio.netlify.app**](https://anshu-rajportfolio.netlify.app/)
+- 👨‍💻 Portfolio: [**portfolio-by-ar.vercel.app**](portfolio-by-ar.vercel.app)
 - 💬 Expertise: **MERN Stack, Web Animations, 3D Graphics, IoT**
 - ⚡ Debug Philosophy: **console.log() is my superpower! 😄**
 - 🎨 Design Mantra: **Pixel-perfect or refactor**
@@ -391,7 +391,7 @@ const opportunities = {
 ### 📬 Reach Out
 
 <p align="center">
-  <a href="https://anshu-rajportfolio.netlify.app/" target="_blank">
+  <a href="https://portfolio-by-ar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-FF6B6B?style=for-the-badge" alt="Portfolio" height="40" />
   </a>
   &nbsp;&nbsp;
