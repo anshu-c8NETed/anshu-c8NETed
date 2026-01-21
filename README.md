@@ -13,7 +13,7 @@
 
 <!-- Social Badges with Hover Effects -->
 <p align="center">
-  <a href="https://anshu-rajportfolio.netlify.app/" target="_blank">
+  <a href="https://portfolio-by-ar.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/anshu-raj-tech/" target="_blank">
