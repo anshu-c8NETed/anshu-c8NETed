@@ -162,7 +162,7 @@ const anshuRaj: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-#### 🎮 [GAMEBIT](https://gamebitdev.netlify.app/)
+#### 🎮 [GAMEBIT](https://game-bit-seven.vercel.app/)
 **Next-Gen Game Design Agency Experience**
 
 <p>
@@ -178,7 +178,7 @@ const anshuRaj: Developer = {
 - 🎯 Agency-level professional design
 - 🚀 Optimized performance
 
-**[🔗 Live Demo](https://gamebitdev.netlify.app/)**
+**[🔗 Live Demo](https://game-bit-seven.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
@@ -207,7 +207,7 @@ const anshuRaj: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-#### 🚀 [HYPERSPACE RUSH](https://hyperspacerush.netlify.app/)
+#### 🚀 [HYPERSPACE RUSH](https://hyper-space-rush.vercel.app/)
 **Cyberpunk Endless Tunnel Racer**
 
 <p>
@@ -228,7 +228,7 @@ const anshuRaj: Developer = {
 </td>
 <td width="50%" valign="top">
 
-#### 📚 [API LEARNING](https://madeforsss.netlify.app/)
+#### 📚 [API LEARNING](https://working-with-api-bay.vercel.app/)
 **Interactive API Learning Platform**
 
 <p>
@@ -244,7 +244,7 @@ const anshuRaj: Developer = {
 - ✨ Premium UI aesthetics
 - 🔄 Smooth page transitions
 
-**[🔗 Live Demo](https://madeforsss.netlify.app/)**
+**[🔗 Live Demo](https://working-with-api-bay.vercel.app/)**
 
 </td>
 </tr>
