@@ -84,7 +84,7 @@ const anshuRaj: Developer = {
 
 - 🔭 Building **Next-Generation Web Experiences**
 - 🌱 Deep diving into **Three.js, GSAP & Cloud Architecture**
-- 👨‍💻 Portfolio: [**portfolio-by-ar.vercel.app**](portfolio-by-ar.vercel.app)
+- 👨‍💻 Portfolio: [**portfolio-by-ar.vercel.app**](https://portfolio-by-ar.vercel.app/)
 - 💬 Expertise: **MERN Stack, Web Animations, 3D Graphics, IoT**
 - ⚡ Debug Philosophy: **console.log() is my superpower! 😄**
 - 🎨 Design Mantra: **Pixel-perfect or refactor**
