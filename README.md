@@ -34,9 +34,9 @@
 ```yaml
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║  STATUS: ● ONLINE & AVAILABLE       LOCATION:    India                ║
-║  MODE:   ● DEVELOPER_ACTIVE         COFFEE:   ☕ ████████░░ 80%      ║
-║  BUILD:  ● Portfolio V2 🚀          BUGS:     🐛 1,247 SQUASHED      ║
+║  STATUS: ●  AVAILABLE                                                 ║
+║  MODE:   ● DEVELOPER_ACTIVE                                           ║
+║  BUILD:  ● Portfolio V2 🚀                                            ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -66,7 +66,7 @@ const developer = {
     "🎨 3D Web Experiences",
     "⚡ Real-time Collaboration", 
     "✨ Agency-Grade Animations",
-    "🤖 AI Integration (Google Gemini)",
+    "🤖 AI Integration",
     "🎯 Pixel-Perfect UI/UX",
     "🔥 60fps Performance"
   ],
