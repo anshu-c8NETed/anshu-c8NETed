@@ -287,6 +287,63 @@ GAMEPLAY:
 
 </details>
 
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/🖋️_INKWELL-PREMIUM_JOURNAL_APP-C9502A?style=for-the-badge" />
+  <b>Animated Journaling Experience with Ghost Handwriting</b> ⭐
+</summary>
+
+<br/>
+
+<div align="center">
+
+<!-- Project GIF/Demo -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
+
+<br/><br/>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-VIEW_NOW-C9502A?style=for-the-badge&logoColor=fff" height="45"/>
+</a>
+<a href="https://github.com/anshu-c8NETed" target="_blank">
+  <img src="https://img.shields.io/badge/📂_SOURCE-GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=000" height="45"/>
+</a>
+
+</div>
+
+<br/>
+
+```diff
+FEATURES:
++ 🖋️ Custom pencil SVG cursor with ink trail, chromatic aberration & click burst particles
++ 📖 Full-featured journal — rich text, AI writing prompts, mood tracking & tagging
++ 🖊️ Ghost handwriting canvas — animated typewriter that writes & erases real diary entries
++ 🎴 3D tilt-on-hover journal cards with specular gloss, tape strips & ruled-paper texture
++ ✨ Word-by-word ink-sweep clip-path quote reveal animation
++ 🌊 Torn paper edge SVG transitions + Lenis smooth scroll throughout
++ 🎠 Dual marquee banners with scroll-velocity speed reactions
++ 💀 Immersive loader — ink blob spreads across screen on entry
++ 🎨 Ink wash canvas blobs + floating particle system as ambient backgrounds
+
+DESIGN SYSTEM:
++ 🎨 Cream #F5EDD8 × Ink Black #1C1410 × Terracotta #C9502A × Gold #C9A96E
++ 🔤 Playfair Display + DM Mono + Caveat handwriting type system
++ 📐 Darkroom-style card archive with staggered 3D grid on desktop
++ 📱 Fully responsive — mobile horizontal snap-scroll + desktop 3-col layout
+```
+
+**TECH STACK:**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lenis-C9502A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+</details>
+
 <br/>
 
 <div align="center">
