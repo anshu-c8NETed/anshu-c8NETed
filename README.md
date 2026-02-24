@@ -302,7 +302,7 @@ GAMEPLAY:
 
 <br/><br/>
 
-<a href="#" target="_blank">
+<a href="https://visual-diary-pink.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-VIEW_NOW-C9502A?style=for-the-badge&logoColor=fff" height="45"/>
 </a>
 <a href="https://github.com/anshu-c8NETed" target="_blank">
