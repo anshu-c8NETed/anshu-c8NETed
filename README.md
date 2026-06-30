@@ -102,5 +102,5 @@ status: open to full-stack, real-time, 3D web, and GenAI-integration work
 <br/>
 
 <div align="center">
-<sub>Ranchi, India · last revised 2026.06 · built without third-party badge generators</sub>
+<sub>India · last revised 2026.06 · built without third-party badge generators</sub>
 </div>
