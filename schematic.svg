@@ -1,0 +1,78 @@
+<svg viewBox="0 0 1200 640" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Courier New',monospace">
+  <defs>
+    <pattern id="grid2" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#161b1a" stroke-width="1"/>
+    </pattern>
+    <marker id="dot" markerWidth="6" markerHeight="6" refX="3" refY="3">
+      <circle cx="3" cy="3" r="2.4" fill="#2DD4BF"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="640" fill="#0a0c0b"/>
+  <rect width="1200" height="640" fill="url(#grid2)"/>
+
+  <text x="30" y="40" fill="#9aa19e" font-size="13" letter-spacing="4">SCHEMATIC — TECHNICAL STACK</text>
+  <line x1="30" y1="54" x2="1170" y2="54" stroke="#2a302e" stroke-width="1"/>
+
+  <!-- central node -->
+  <rect x="540" y="280" width="120" height="60" rx="4" fill="#0a0c0b" stroke="#F5A623" stroke-width="2"/>
+  <text x="600" y="316" fill="#F5A623" font-size="16" text-anchor="middle" font-weight="700">CORE</text>
+
+  <!-- category nodes + traces -->
+  <g stroke="#2DD4BF" stroke-width="1.4" fill="none">
+    <path d="M 540 300 L 220 110"/>
+    <path d="M 540 320 L 220 320"/>
+    <path d="M 540 340 L 220 530"/>
+    <path d="M 660 300 L 980 110"/>
+    <path d="M 660 320 L 980 320"/>
+    <path d="M 660 340 L 980 530"/>
+  </g>
+  <g fill="#2DD4BF">
+    <circle cx="540" cy="300" r="3"/><circle cx="540" cy="320" r="3"/><circle cx="540" cy="340" r="3"/>
+    <circle cx="660" cy="300" r="3"/><circle cx="660" cy="320" r="3"/><circle cx="660" cy="340" r="3"/>
+  </g>
+
+  <!-- node template repeated -->
+  <!-- FRONTEND -->
+  <g>
+    <rect x="60" y="80" width="160" height="56" rx="3" fill="none" stroke="#EAEAE6" stroke-width="1.2"/>
+    <text x="140" y="103" fill="#EAEAE6" font-size="13" text-anchor="middle" letter-spacing="2">FRONTEND</text>
+    <text x="140" y="122" fill="#7a817f" font-size="10" text-anchor="middle">REACT · NEXT.JS · THREE.JS</text>
+  </g>
+  <!-- ANIMATION -->
+  <g>
+    <rect x="60" y="292" width="160" height="56" rx="3" fill="none" stroke="#EAEAE6" stroke-width="1.2"/>
+    <text x="140" y="315" fill="#EAEAE6" font-size="13" text-anchor="middle" letter-spacing="2">MOTION / 3D</text>
+    <text x="140" y="334" fill="#7a817f" font-size="10" text-anchor="middle">GSAP · WEBGL · FRAMER</text>
+  </g>
+  <!-- BACKEND -->
+  <g>
+    <rect x="60" y="502" width="160" height="56" rx="3" fill="none" stroke="#EAEAE6" stroke-width="1.2"/>
+    <text x="140" y="525" fill="#EAEAE6" font-size="13" text-anchor="middle" letter-spacing="2">BACKEND</text>
+    <text x="140" y="544" fill="#7a817f" font-size="10" text-anchor="middle">NODE · EXPRESS · SOCKET.IO</text>
+  </g>
+  <!-- DATABASE -->
+  <g>
+    <rect x="980" y="80" width="160" height="56" rx="3" fill="none" stroke="#EAEAE6" stroke-width="1.2"/>
+    <text x="1060" y="103" fill="#EAEAE6" font-size="13" text-anchor="middle" letter-spacing="2">DATA</text>
+    <text x="1060" y="122" fill="#7a817f" font-size="10" text-anchor="middle">MONGODB · POSTGRES · MYSQL</text>
+  </g>
+  <!-- AI -->
+  <g>
+    <rect x="980" y="292" width="160" height="56" rx="3" fill="none" stroke="#EAEAE6" stroke-width="1.2"/>
+    <text x="1060" y="315" fill="#EAEAE6" font-size="13" text-anchor="middle" letter-spacing="2">AI / GENAI</text>
+    <text x="1060" y="334" fill="#7a817f" font-size="10" text-anchor="middle">GEMINI · LLM INTEGRATION</text>
+  </g>
+  <!-- CLOUD -->
+  <g>
+    <rect x="980" y="502" width="160" height="56" rx="3" fill="none" stroke="#EAEAE6" stroke-width="1.2"/>
+    <text x="1060" y="525" fill="#EAEAE6" font-size="13" text-anchor="middle" letter-spacing="2">CLOUD</text>
+    <text x="1060" y="544" fill="#7a817f" font-size="10" text-anchor="middle">AWS · VERCEL · NETLIFY</text>
+  </g>
+
+  <!-- languages strip -->
+  <text x="600" y="600" fill="#5a615f" font-size="11" text-anchor="middle" letter-spacing="3">JS · TS · C++ · PYTHON</text>
+  <line x1="60" y1="615" x2="1140" y2="615" stroke="#2a302e" stroke-width="1"/>
+  <text x="60" y="632" fill="#4a514f" font-size="10" letter-spacing="2">FIG. 02 — CONNECTIVITY DIAGRAM</text>
+  <text x="1140" y="632" fill="#4a514f" font-size="10" letter-spacing="2" text-anchor="end">UNITS: ARBITRARY</text>
+</svg>
