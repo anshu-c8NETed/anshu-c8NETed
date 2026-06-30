@@ -8,7 +8,7 @@
 
 <sub>[`PORTFOLIO`](https://portfolio-by-ar.vercel.app/) · [`LINKEDIN`](https://linkedin.com/in/anshu-raj-tech) · [`LEETCODE`](https://leetcode.com/u/anshxu) · [`EMAIL`](mailto:rajanshu2123@gmail.com)</sub>
 
-<br/>
+<img src="./assets/divider-alt.svg" width="100%"/>
 
 ## ⌁ SYSTEM STATUS
 
@@ -16,13 +16,13 @@
 
 <img src="./assets/readout.svg" alt="Live system status" width="100%"/>
 
-<br/>
+<img src="./assets/divider-alt.svg" width="100%"/>
 
 ## ⌁ SCHEMATIC
 
 <img src="./assets/schematic.svg" alt="Stack schematic" width="100%"/>
 
-<br/>
+<img src="./assets/divider-alt.svg" width="100%"/>
 
 ## ⌁ BUILDS
 
@@ -79,7 +79,7 @@ A ghost-handwriting canvas, ink-trail custom cursor, and 3D-tilt journal cards, 
 
 </div>
 
-<br/>
+<img src="./assets/divider-alt.svg" width="100%"/>
 
 ## ⌁ LOG
 
