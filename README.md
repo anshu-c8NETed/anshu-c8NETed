@@ -39,42 +39,40 @@
 
 ## ⌁ BUILDS
 
-<sub>Placeholder cards below — drop real project screenshots into <code>/assets</code> and swap the <code>src</code> paths once available.</sub>
-
 <table width="100%">
 <tr>
 <td width="50%">
-<img src="./assets/placeholder-gamebit.svg" width="100%"/>
+<img src="./images/1.jpg" width="100%"/>
 <br/>
 
-**GAMEBIT** — agency-grade game design portfolio. 3D helmet render, Locomotive Scroll + GSAP, custom magnetic cursor, cyberpunk particle system. `<2s` load on 3G, `95+` Lighthouse.
-`Three.js` `GSAP` `WebGL` · [Live](https://game-bit-seven.vercel.app/) · [Source](https://github.com/anshu-c8NETed)
+**PHOENIX** — last-minute crisis tool for exams, interviews, deadlines and hackathons. Diagnoses what's actually critical, cuts non-essential material, and outputs a concrete hour-by-hour recovery plan with weighted survival odds.
+`React` `AI Planning` · [Source](https://github.com/anshu-c8NETed](https://phoenix-647479600848.us-west1.run.app/))
 
 </td>
 <td width="50%">
-<img src="./assets/placeholder-codexspace.svg" width="100%"/>
+<img src="./images/3.jpg" width="100%"/>
 <br/>
 
 **CODEXSPACE** — real-time collaborative code editor with embedded AI. 50+ concurrent users, sub-100ms edit latency, WebContainer in-browser execution, Monaco editor.
-`React` `Socket.io` `Gemini` `MongoDB` · [Live](https://codex-space-frontend.vercel.app/) · [Source](https://github.com/anshu-c8NETed)
+`React` `Socket.io` `Gemini` `MongoDB` · [Source](https://github.com/anshu-c8NETed](https://codex-space-frontend.vercel.app/))
 
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="./assets/placeholder-hyperspace.svg" width="100%"/>
+<img src="./images/4.jpg" width="100%"/>
 <br/>
 
-**HYPERSPACE RUSH** — cyberpunk endless runner. Procedural 3D tunnel generation, dynamic LOD for 60fps mobile, GPU-instanced particle trails, reactive audio visualization.
-`Three.js` `GSAP` `WebGL` · [Live](https://hyperspacerush.netlify.app/) · [Source](https://github.com/anshu-c8NETed)
+**AURA** — editorial e-commerce concept for an evening-wear label. Bias-cut typography, gallery-style product reveal, and a layout built to read like a fashion magazine rather than a storefront.
+`React` `Next.js` `Tailwind` · [Source](https://github.com/anshu-c8NETed)
 
 </td>
 <td width="50%">
-<img src="./assets/placeholder-inkwell.svg" width="100%"/>
+<img src="./images/2.jpg" width="100%"/>
 <br/>
 
 **INKWELL** — animated journaling app with a ghost-handwriting canvas, ink-trail custom cursor, 3D tilt journal cards, and a full hand-built design system (Playfair Display × Caveat × DM Mono).
-`React` `GSAP` `Lenis` `Canvas API` · [Live](https://visual-diary-pink.vercel.app/) · [Source](https://github.com/anshu-c8NETed)
+`React` `GSAP` `Lenis` `Canvas API` · [Source](https://visual-diary-pink.vercel.app/) 
 
 </td>
 </tr>
@@ -104,5 +102,5 @@ status: open to full-stack, real-time, 3D web, and GenAI-integration work
 <br/>
 
 <div align="center">
-<sub> India · last revised 2026.06 · built without third-party badge generators</sub>
+<sub>Ranchi, India · last revised 2026.06 · built without third-party badge generators</sub>
 </div>
