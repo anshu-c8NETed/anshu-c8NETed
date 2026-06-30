@@ -91,7 +91,6 @@
 ```yaml
 problems_solved:        500+   # LeetCode, DSA
 production_projects:    10+
-concurrent_users_max:   50+    # CodexSpace stress test
 certifications:
   - GenAI Powered Data Analytics — Tata iQ, Forage
   - Front-End Software Engineering — Skyscanner, Forage
