@@ -1,0 +1,66 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Courier New',monospace">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1a1f1e" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0c0b"/>
+      <stop offset="100%" stop-color="#0a0c0b" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="#0a0c0b"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- corner brackets, technical drawing frame -->
+  <g stroke="#2DD4BF" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M 24 50 L 24 24 L 50 24"/>
+    <path d="M 1150 24 L 1176 24 L 1176 50"/>
+    <path d="M 1176 270 L 1176 296 L 1150 296"/>
+    <path d="M 50 296 L 24 296 L 24 270"/>
+  </g>
+
+  <!-- annotation ticks top -->
+  <g stroke="#3a3f3e" stroke-width="1">
+    <line x1="24" y1="70" x2="1176" y2="70"/>
+  </g>
+  <text x="24" y="58" fill="#5a615f" font-size="11" letter-spacing="3">DRWG. NO. AR—001</text>
+  <text x="1176" y="58" fill="#5a615f" font-size="11" letter-spacing="2" text-anchor="end">REV. 2026.06</text>
+
+  <!-- main wordmark, hand-drawn stroke reveal -->
+  <text x="60" y="180" font-size="96" font-weight="700" fill="none" stroke="#EAEAE6" stroke-width="1.4" letter-spacing="2">
+    ANSHU RAJ
+    <animate attributeName="stroke-dasharray" from="0,2000" to="2000,0" dur="2.4s" fill="freeze" begin="0.2s"/>
+  </text>
+  <text x="60" y="180" font-size="96" font-weight="700" fill="#EAEAE6" opacity="0">
+    ANSHU RAJ
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.4s" fill="freeze"/>
+  </text>
+
+  <!-- accent underline, drawn -->
+  <line x1="62" y1="206" x2="62" y2="206" stroke="#2DD4BF" stroke-width="4">
+    <animate attributeName="x2" from="62" to="720" dur="1s" begin="2.6s" fill="freeze"/>
+  </line>
+  <line x1="730" y1="206" x2="730" y2="206" stroke="#F5A623" stroke-width="4">
+    <animate attributeName="x2" from="730" to="830" dur="0.4s" begin="3.5s" fill="freeze"/>
+  </line>
+
+  <!-- role label -->
+  <text x="62" y="240" font-size="18" fill="#9aa19e" letter-spacing="4" opacity="0">
+    FULL-STACK ENGINEER · SYSTEMS &amp; INTERFACE DESIGN
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="3.0s" fill="freeze"/>
+  </text>
+
+  <!-- crosshair marker -->
+  <g opacity="0">
+    <circle cx="1100" cy="170" r="34" stroke="#2DD4BF" stroke-width="1" fill="none"/>
+    <line x1="1066" y1="170" x2="1134" y2="170" stroke="#2DD4BF" stroke-width="1"/>
+    <line x1="1100" y1="136" x2="1100" y2="204" stroke="#2DD4BF" stroke-width="1"/>
+    <circle cx="1100" cy="170" r="3" fill="#F5A623"/>
+    <animate attributeName="opacity" from="0" to="0.9" dur="1s" begin="3.4s" fill="freeze"/>
+  </g>
+
+  <!-- bottom coordinate strip -->
+  <text x="24" y="290" font-size="11" fill="#4a514f" letter-spacing="2">LAT 23.3441° N · LONG 85.3096° E · RANCHI</text>
+  <text x="1176" y="290" font-size="11" fill="#4a514f" letter-spacing="2" text-anchor="end">SCALE 1:1 · STATUS: BUILDING</text>
+</svg>
