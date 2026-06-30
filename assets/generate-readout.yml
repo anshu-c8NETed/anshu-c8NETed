@@ -22,10 +22,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Generate readout.svg
+- name: Generate readout.svg
         env:
           GH_USERNAME: ${{ github.repository_owner }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_READOUT_PAT }}
         run: python scripts/generate_readout.py
 
       - name: Commit changes
