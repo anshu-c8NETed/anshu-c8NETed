@@ -26,52 +26,43 @@
 
 ## ⌁ BUILDS
 
-<table width="100%">
-<tr>
-<td width="50%">
 <img src="./images/1.jpg" width="100%"/>
-<br/>
 
 **PHOENIX** — last-minute crisis tool for exams, interviews, deadlines and hackathons.
 
 A 6-agent AI pipeline diagnoses what's actually critical, cuts non-essential material, and outputs an hour-by-hour recovery plan with weighted survival odds — self-correcting via an auto-chaining loop that re-triages at higher strictness if simulated success odds fall below 60%.
 
 `React` `TypeScript` `Gemini` `Three.js` `GSAP` · [Source](https://github.com/anshu-c8NETed) · [Live](https://phoenix-647479600848.us-west1.run.app/)
-</td>
-<td width="50%">
-<img src="./images/3.jpg" width="100%"/>
+
 <br/>
+
+<img src="./images/3.jpg" width="100%"/>
 
 **CODEXSPACE** — real-time collaborative code editor with embedded AI.
 
 Built for 50+ concurrent users at sub-100ms edit latency, with in-browser code execution via WebContainers and a Monaco-powered editing surface that feels native, not bolted-on.
 
 `React` `Socket.io` `Gemini` `MongoDB` · [Source](https://github.com/anshu-c8NETed) · [Live](https://codex-space-frontend.vercel.app/)
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="./images/4.jpg" width="100%"/>
+
 <br/>
+
+<img src="./images/4.jpg" width="100%"/>
 
 **AURA** — editorial e-commerce concept for an evening-wear label.
 
 WebGL displacement-map shader transitions in the hero, scroll-driven text scramble, and a keyword-triggered photo-burst reveal — built to read like a fashion magazine spread, not a product grid.
 
 `React` `Three.js` `GSAP` `Tailwind` · [Source](https://github.com/anshu-c8NETed)
-</td>
-<td width="50%">
-<img src="./images/2.jpg" width="100%"/>
+
 <br/>
+
+<img src="./images/2.jpg" width="100%"/>
 
 **INKWELL** — animated journaling app with a hand-built design system.
 
 A ghost-handwriting canvas, ink-trail custom cursor, and 3D-tilt journal cards, typeset across Playfair Display, Caveat and DM Mono — every interaction designed to feel like writing, not typing.
 
 `React` `GSAP` `Lenis` `Canvas API` · [Live](https://visual-diary-pink.vercel.app/)
-</td>
-</tr>
-</table>
 
 <div align="center">
 
