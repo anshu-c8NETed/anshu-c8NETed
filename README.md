@@ -32,15 +32,19 @@
 <img src="./images/1.jpg" width="100%"/>
 <br/>
 
-**PHOENIX** — last-minute crisis tool for exams, interviews, deadlines and hackathons. Diagnoses what's actually critical, cuts non-essential material, and outputs a concrete hour-by-hour recovery plan with weighted survival odds.
+**PHOENIX** — last-minute crisis tool for exams, interviews, deadlines and hackathons.
 
-`React` `AI Planning` · [Source](https://github.com/anshu-c8NETed) · [Live](https://phoenix-647479600848.us-west1.run.app/)
+A 6-agent AI pipeline diagnoses what's actually critical, cuts non-essential material, and outputs an hour-by-hour recovery plan with weighted survival odds — self-correcting via an auto-chaining loop that re-triages at higher strictness if simulated success odds fall below 60%.
+
+`React` `TypeScript` `Gemini` `Three.js` `GSAP` · [Source](https://github.com/anshu-c8NETed) · [Live](https://phoenix-647479600848.us-west1.run.app/)
 </td>
 <td width="50%">
 <img src="./images/3.jpg" width="100%"/>
 <br/>
 
-**CODEXSPACE** — real-time collaborative code editor with embedded AI. 50+ concurrent users, sub-100ms edit latency, WebContainer in-browser execution, Monaco editor.
+**CODEXSPACE** — real-time collaborative code editor with embedded AI.
+
+Built for 50+ concurrent users at sub-100ms edit latency, with in-browser code execution via WebContainers and a Monaco-powered editing surface that feels native, not bolted-on.
 
 `React` `Socket.io` `Gemini` `MongoDB` · [Source](https://github.com/anshu-c8NETed) · [Live](https://codex-space-frontend.vercel.app/)
 </td>
@@ -50,15 +54,19 @@
 <img src="./images/4.jpg" width="100%"/>
 <br/>
 
-**AURA** — editorial e-commerce concept for an evening-wear label. Bias-cut typography, gallery-style product reveal, and a layout built to read like a fashion magazine rather than a storefront.
+**AURA** — editorial e-commerce concept for an evening-wear label.
 
-`React` `Next.js` `Tailwind` · [Source](https://github.com/anshu-c8NETed)
+WebGL displacement-map shader transitions in the hero, scroll-driven text scramble, and a keyword-triggered photo-burst reveal — built to read like a fashion magazine spread, not a product grid.
+
+`React` `Three.js` `GSAP` `Tailwind` · [Source](https://github.com/anshu-c8NETed)
 </td>
 <td width="50%">
 <img src="./images/2.jpg" width="100%"/>
 <br/>
 
-**INKWELL** — animated journaling app with a ghost-handwriting canvas, ink-trail custom cursor, 3D tilt journal cards, and a full hand-built design system (Playfair Display × Caveat × DM Mono).
+**INKWELL** — animated journaling app with a hand-built design system.
+
+A ghost-handwriting canvas, ink-trail custom cursor, and 3D-tilt journal cards, typeset across Playfair Display, Caveat and DM Mono — every interaction designed to feel like writing, not typing.
 
 `React` `GSAP` `Lenis` `Canvas API` · [Live](https://visual-diary-pink.vercel.app/)
 </td>
@@ -90,5 +98,5 @@ status: open to full-stack, real-time, 3D web, and GenAI-integration work
 <br/>
 
 <div align="center">
-<sub>India · last revised 2026.06 · built without third-party badge generators</sub>
+<sub>India · last revised 2026.07 · built without third-party badge generators</sub>
 </div>
