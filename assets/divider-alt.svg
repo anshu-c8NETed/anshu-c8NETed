@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Courier New',monospace">
+  <line x1="20" y1="25" x2="1180" y2="25" stroke="#2a302e" stroke-width="1"/>
+
+  <path d="M 20 18 L 20 32" stroke="#5a615f" stroke-width="1"/>
+  <path d="M 1180 18 L 1180 32" stroke="#5a615f" stroke-width="1"/>
+
+  <rect x="0" y="22" width="40" height="6" fill="#2DD4BF" opacity="0.8">
+    <animate attributeName="x" from="-40" to="1200" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g fill="#0a0c0b" stroke="#2a302e" stroke-width="1">
+    <rect x="565" y="15" width="70" height="20" rx="2"/>
+  </g>
+  <text x="600" y="29" fill="#5a615f" font-size="10" letter-spacing="2" text-anchor="middle">&#8226;&#8226;&#8226;</text>
+</svg>
