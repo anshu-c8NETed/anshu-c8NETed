@@ -4,7 +4,7 @@
 
 <br/>
 
-**Full-stack engineer working at the intersection of interface, motion and systems.** I build things that are fast to use and precise to look at — real-time collaborative tools, 3D web experiences, and AI-integrated products, shipped with the same attention to detail you'd expect from a piece of hardware documentation, not a portfolio site.
+**Full-stack developer working at the intersection of interface, motion and systems.** I build things that are fast to use and precise to look at — real-time collaborative tools, 3D web experiences, and AI-integrated products, shipped with the same attention to detail you'd expect from a piece of hardware documentation, not a portfolio site.
 
 <sub>[`PORTFOLIO`](https://portfolio-by-ar.vercel.app/) · [`LINKEDIN`](https://linkedin.com/in/anshu-raj-tech) · [`LEETCODE`](https://leetcode.com/u/anshxu) · [`EMAIL`](mailto:rajanshu2123@gmail.com)</sub>
 
