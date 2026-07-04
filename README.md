@@ -1,7 +1,6 @@
 <div align="center">
 <img src="./assets/hero.svg" alt="Anshu Raj" width="100%"/>
 </div>
-
 <br/>
 
 **Full-stack developer working at the intersection of interface, motion and systems.** I build things that are fast to use and precise to look at — real-time collaborative tools, 3D web experiences, and AI-integrated products, shipped with the same attention to detail you'd expect from a piece of hardware documentation, not a portfolio site.
@@ -26,7 +25,9 @@
 
 ## ⌁ BUILDS
 
+<img src="./assets/build-01-top.svg" width="100%"/>
 <img src="./images/1.jpg" width="100%"/>
+<img src="./assets/build-01-bottom.svg" width="100%"/>
 
 **PHOENIX** — last-minute crisis tool for exams, interviews, deadlines and hackathons.
 
@@ -36,7 +37,9 @@ A 6-agent AI pipeline diagnoses what's actually critical, cuts non-essential mat
 
 <br/>
 
+<img src="./assets/build-02-top.svg" width="100%"/>
 <img src="./images/3.jpg" width="100%"/>
+<img src="./assets/build-02-bottom.svg" width="100%"/>
 
 **CODEXSPACE** — real-time collaborative code editor with embedded AI.
 
@@ -46,7 +49,9 @@ Built for 50+ concurrent users at sub-100ms edit latency, with in-browser code e
 
 <br/>
 
+<img src="./assets/build-03-top.svg" width="100%"/>
 <img src="./images/4.jpg" width="100%"/>
+<img src="./assets/build-03-bottom.svg" width="100%"/>
 
 **AURA** — editorial e-commerce concept for an evening-wear label.
 
@@ -56,7 +61,9 @@ WebGL displacement-map shader transitions in the hero, scroll-driven text scramb
 
 <br/>
 
+<img src="./assets/build-04-top.svg" width="100%"/>
 <img src="./images/2.jpg" width="100%"/>
+<img src="./assets/build-04-bottom.svg" width="100%"/>
 
 **INKWELL** — animated journaling app with a hand-built design system.
 
@@ -74,17 +81,7 @@ A ghost-handwriting canvas, ink-trail custom cursor, and 3D-tilt journal cards, 
 
 ## ⌁ LOG
 
-```yaml
-problems_solved:        500+   # LeetCode, DSA
-production_projects:    10+
-concurrent_users_max:   50+    # CodexSpace stress test
-certifications:
-  - GenAI Powered Data Analytics — Tata iQ, Forage
-  - Front-End Software Engineering — Skyscanner, Forage
-leadership:
-  - Vice President (Tech & Media) — PPGS, HIT
-status: open to full-stack, real-time, 3D web, and GenAI-integration work
-```
+<img src="./assets/log.svg" alt="Log panel" width="100%"/>
 
 <br/>
 
