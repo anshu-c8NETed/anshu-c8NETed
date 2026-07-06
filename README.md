@@ -57,7 +57,7 @@ Built for 50+ concurrent users at sub-100ms edit latency, with in-browser code e
 
 WebGL displacement-map shader transitions in the hero, scroll-driven text scramble, and a keyword-triggered photo-burst reveal — built to read like a fashion magazine spread, not a product grid.
 
-`React` `Three.js` `GSAP` `Tailwind` · [Source](https://github.com/anshu-c8NETed)
+`React` `Three.js` `GSAP` `Tailwind` · [Source](https://github.com/anshu-c8NETed) [Live](https://aura-ecom-frontend.vercel.app/)
 
 <br/>
 
